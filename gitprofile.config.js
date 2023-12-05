@@ -44,18 +44,18 @@ const config = {
   ],
   experiences: [
     {
-    //  company: 'Jersey Mikes',
-      //position: 'Position',
-     // from: 'September 2021',
-     // to: 'Present',
-    //  companyLink: 'https://example.com',
-   // },
-   // {
-     // company: 'Company Name',
-      //position: 'Position',
-      //from: 'July 2019',
-      //to: 'August 2021',
-     // companyLink: 'https://example.com',
+      company: 'Jersey Mikes',
+    position: 'Position',
+     from: 'September 2021',
+     to: 'Present',
+     companyLink: 'https://example.com',
+   },
+    {
+      company: 'Company Name',
+      position: 'Position',
+      from: 'July 2019',
+      to: 'August 2021',
+      companyLink: 'https://example.com',
     },
   ],
    certifications: [
@@ -82,21 +82,21 @@ const config = {
       title: 'Splunk Reflection',
       description:
         'Assess my time diving into the Splunk World.',
-      //imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://docs.google.com/document/d/1qdESe_JyZ2_ZWwfGD1q34Bke2QiHlig6/edit?usp=sharing&ouid=108864146003155618442&rtpof=true&sd=true',
     },
     {
       title: 'NIST CSF Security Accident',
       description:
         'Acting as a Cybersercurity Analyst for XYZ Financial who noticed some issues with logging in, to which I responded as a member of the incident response team.',
-      //imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://docs.google.com/document/d/1AI_ONFdwuB02t3Tb4rbZbtsasimhltge/edit?usp=sharing&ouid=108864146003155618442&rtpof=true&sd=true',
     },
     {
       title: 'Security Audit',
       description:
         'Performed Security Audit for XYZ Financial.',
-      //imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://docs.google.com/document/d/1al0WCqFBCfDymdKfB0-UJPgUJ1lF0DkM-pBjLp4uCv0/edit?usp=sharing&resourcekey=0-lK3D6KRwYVTysv3s4tJEIQ',
     },
   ],
