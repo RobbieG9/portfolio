@@ -43,7 +43,7 @@ const config = {
     'Visual Studio',
   ],
   experiences: [
-   // {
+    {
     //  company: 'Jersey Mikes',
       //position: 'Position',
      // from: 'September 2021',
@@ -56,7 +56,7 @@ const config = {
       //from: 'July 2019',
       //to: 'August 2021',
      // companyLink: 'https://example.com',
-  //  },
+    },
   ],
    certifications: [
     {
