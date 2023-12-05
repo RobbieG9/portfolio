@@ -60,10 +60,22 @@ const config = {
   ],
    certifications: [
     {
-  //    name: 'Lorem ipsum',
+      name: 'Applied Data Analytics(In progress)',
    //   body: 'Lorem ipsum dolor sit amet',
    //   year: 'March 2022',
-      link: 'https://example.com'
+    //  link: 'https://example.com'
+    },
+     {
+      name: 'AWS Cloud Computing(In progress)',
+   //   body: 'Lorem ipsum dolor sit amet',
+   //   year: 'March 2022',
+    //  link: 'https://example.com'
+    },
+     {
+      name: 'IC2 CyberSecurity(In progress)',
+   //   body: 'Lorem ipsum dolor sit amet',
+   //   year: 'March 2022',
+    //  link: 'https://example.com'
     },
   ], 
   education: [
