@@ -118,6 +118,13 @@ const config = {
       imageUrl: '',
       link: 'https://drive.google.com/file/d/1MlR7qzYiRr2x23LNKM4wwxXg4kcwieZr/view?usp=sharing',
     },
+    {
+      title: 'My Pitch',
+      description:
+        'My personal Sales Pitch',
+      imageUrl: '',
+      link: 'https://drive.google.com/file/d/1EFKWjZ8Ji53bv_xLcxhmwIWxMWPxI1-X/view?usp=sharing',
+    },  
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
