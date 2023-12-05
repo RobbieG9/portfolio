@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1a1gKS37usOx2AilA636kxPi4nwiQ-CZh/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -60,9 +60,9 @@ const config = {
   ],
    certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+  //    name: 'Lorem ipsum',
+   //   body: 'Lorem ipsum dolor sit amet',
+   //   year: 'March 2022',
       link: 'https://example.com'
     },
   ], 
