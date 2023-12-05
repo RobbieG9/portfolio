@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'RobbieG9', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,9 +11,9 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'robert-gilliand',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
@@ -24,9 +24,9 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'gilliandr20@students.ecu.edu',
   },
   resume: {
     fileUrl:
@@ -34,81 +34,77 @@ const config = {
   },
   skills: [
     'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'HTML',
+    'SQL',
+    'UX Design',
+    'SAS',
+    'Tableau',
+    'Miscrosoft SQL Server',
+    'Visual Studio',
   ],
   experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+   // {
+    //  company: 'Jersey Mikes',
+      //position: 'Position',
+     // from: 'September 2021',
+     // to: 'Present',
+    //  companyLink: 'https://example.com',
+   // },
+   // {
+     // company: 'Company Name',
+      //position: 'Position',
+      //from: 'July 2019',
+      //to: 'August 2021',
+     // companyLink: 'https://example.com',
+  //  },
   ],
-  /* certifications: [
+   certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: ' East Carolina University',
+      degree: 'Management Information Systems',
+      from: '2020',
+      to: '2024',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+   
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Splunk Reflection',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Assess my time diving into the Splunk World.',
+      //imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://docs.google.com/document/d/1qdESe_JyZ2_ZWwfGD1q34Bke2QiHlig6/edit?usp=sharing&ouid=108864146003155618442&rtpof=true&sd=true',
     },
     {
-      title: 'Project Name',
+      title: 'NIST CSF Security Accident',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Acting as a Cybersercurity Analyst for XYZ Financial who noticed some issues with logging in, to which I responded as a member of the incident response team.',
+      //imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://docs.google.com/document/d/1AI_ONFdwuB02t3Tb4rbZbtsasimhltge/edit?usp=sharing&ouid=108864146003155618442&rtpof=true&sd=true',
+    },
+    {
+      title: 'Security Audit',
+      description:
+        'Performed Security Audit for XYZ Financial.',
+      //imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://docs.google.com/document/d/1al0WCqFBCfDymdKfB0-UJPgUJ1lF0DkM-pBjLp4uCv0/edit?usp=sharing&resourcekey=0-lK3D6KRwYVTysv3s4tJEIQ',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
+   /limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
