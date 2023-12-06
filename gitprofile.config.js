@@ -67,20 +67,26 @@ const config = {
     },
      {
       name: 'AWS Cloud Computing(In progress)',
-   //   body: 'Lorem ipsum dolor sit amet',
+       body: 'Currently have the badge',
    //   year: 'March 2022',
-    //  link: 'https://example.com'
+      link: 'https://www.credly.com/badges/ff57e0fc-9842-4b35-8fe8-b0b68d9dd808/public_url'
     },
      {
       name: 'IC2 CyberSecurity(In progress)',
-   //   body: 'Lorem ipsum dolor sit amet',
+     body: 'Currently have the badge',
    //   year: 'March 2022',
-    //  link: 'https://example.com'
+      link: 'https://www.credly.com/badges/f8428f53-53ba-48b2-94b1-fa09ef539f2b/public_url'
+    },
+      {
+      name: 'Packet Tracer',
+    // body: 'Currently have the badge',
+   //   year: 'March 2022',
+      link: 'https://www.credly.com/badges/6eb0cff4-2719-48a6-8f16-bffe355a51eb/public_url'
     },
   ], 
   education: [
     {
-      institution: ' East Carolina University',
+      institution: 'East Carolina University',
       degree: 'Management Information Systems',
       from: '2020',
       to: '2024',
