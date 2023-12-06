@@ -45,18 +45,18 @@ const config = {
   experiences: [
     {
       company: 'Jersey Mikes',
-    position: 'Position',
-     from: 'September 2021',
+    position: 'Crew Member',
+     from: 'April 2021',
      to: 'Present',
-     companyLink: 'https://example.com',
+     companyLink: '',
    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+  //  {
+  //    company: 'Company Name',
+  //    position: 'Position',
+  //    from: 'July 2019',
+  //    to: 'August 2021',
+  //    companyLink: 'https://example.com',
+  //  },
   ],
    certifications: [
     {
@@ -130,6 +130,20 @@ const config = {
         'My personal Sales Pitch',
       imageUrl: '',
       link: 'https://drive.google.com/file/d/1EFKWjZ8Ji53bv_xLcxhmwIWxMWPxI1-X/view?usp=sharing',
+    },  
+    {
+      title: 'TryHackMe NMAP',
+      description:
+        'My experience working with Tryhackme NMAP',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/1u28-d9nfLpQTBHZVuuKKLz0vQNXvB7-l/edit?usp=drive_link&ouid=108864146003155618442&rtpof=true&sd=true',
+    },  
+    {
+      title: 'TryHackMe Web App Security',
+      description:
+        'My experience working with Tryhackme Web App Security',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/1GH41P4qrcxVT7pXzhOsvLZFw1_c5cq7n/edit?usp=sharing&ouid=108864146003155618442&rtpof=true&sd=true',
     },  
   ],
   // Display blog posts from your medium or dev account. (Optional)
