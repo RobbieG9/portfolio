@@ -145,6 +145,28 @@ const config = {
       imageUrl: '',
       link: 'https://docs.google.com/document/d/1GH41P4qrcxVT7pXzhOsvLZFw1_c5cq7n/edit?usp=sharing&ouid=108864146003155618442&rtpof=true&sd=true',
     },  
+    {
+      title: 'Blog 1',
+      description:
+        'Blog about a Virtual Meeting',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/1JEek3ktkWPZmQ1TfokSrA5t-WYc67aAFWwp516rint8/edit?usp=sharing',
+    },  
+    {
+      title: 'Blog 2 Technical Sales',
+      description:
+        'Blog about a in person Meeting',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/16Cd6H8unSMDcmHwCIpJ9oEOkgezlGWKguiJ7n4xvqCM/edit?usp=sharing',
+    }, 
+   {
+      title: 'Blog 3',
+      description:
+        'Blog 3',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/1ffw-hcOGJ4SHfDdxdX7TpEsory0xjNzsz9dywwXJu1U/edit?usp=sharing',
+    },  
+    
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
