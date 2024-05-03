@@ -83,6 +83,12 @@ const config = {
    //   year: 'March 2022',
       link: 'https://www.credly.com/badges/6eb0cff4-2719-48a6-8f16-bffe355a51eb/public_url'
     },
+     {
+      name: 'Google Analytics G4 Certification',
+    // body: 'Currently have the badge',
+   //   year: 'March 2022',
+      link: 'https://drive.google.com/file/d/1Ds3dyI86dtjLTkHZdsn0W9mq-hGJH9Xp/view?usp=sharing'
+    },
   ], 
   education: [
     {
